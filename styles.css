@@ -74,6 +74,9 @@ a {
     border: none;
 }
 
+.hero img{
+    width:100%;
+}
 
 .info-header {
     font-size: 36px;
